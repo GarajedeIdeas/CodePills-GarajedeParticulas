@@ -1,7 +1,12 @@
 # garaje-de-particulas
 
 ## Bienvenidos
-Este repo contiene los ejercicios de demostración que usaremos para la charla de Garaje de Ideas.
+Este repo contiene los ejercicios de demostración que usaremos para la charla de Garaje de Ideas. 
+
+
+## Curso completo
+[AQUÍ](https://www.youtube.com/watch?v=Y5SC4qpdxME&list=PLTg7E2ObeSjYkcQ7QzqON-aQ2BnvwWFm0&index=4)
+
 
 ## Estructura de la charla
 La charla está dividida en dos bloques. 
